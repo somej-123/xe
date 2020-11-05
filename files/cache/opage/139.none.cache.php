@@ -1,5 +1,4 @@
-<?php if(!defined("__XE__"))exit;
-if(!defined("__XE__"))exit;?>    <meta charset="UTF-8">
+<?php if(!defined("__XE__"))exit;?>    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- jquery 최신버전 사용-->
     <script src="/modules/SOSOHAM/SOSOHAMMALL/js/slide.js"></script>
