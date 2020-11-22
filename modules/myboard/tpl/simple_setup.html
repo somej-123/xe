@@ -1,0 +1,25 @@
+<form class="x_form-vertical" action="./" method="post">
+	<input type="hidden" name="module_srl" value="{$module_info->module_srl}" />
+	<input type="hidden" name="act" value="procMyboardAdminUpdateSimpleSetup" />
+	<div class="x_control-group">
+		<label class="x_control-label" for="title">{$lang->myboard_title}</label>
+		<div class="x_controls">
+			<input type="text" name="title" id="title" class="lang_code" value="{$config->title}" />
+			<p class="x_help-block">{$lang->about_myboard_title}</p>
+		</div>
+	</div>
+</form>
+<!--
+    <form>
+        설정을 전송할 form
+        module_srl:설정을 저장할 모듈의 번호
+        act:실행할 액션명
+
+        {$varname}
+        변수를 출력하기 위한 XE템플릿 문법
+
+        {$lang->varname}
+        $lang : 언어 변수
+        현재 언어에 맞는 언어 변수의 값
+        xe에서 알아서 언어 변수를 세팅 함
+-->

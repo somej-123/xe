@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module version="0.2">
+	<title xml:lang="ko">나의 게시판</title>
+	<description xml:lang="ko">내가 직접 만든 게시판</description>
+	<version>1.0</version>
+	<link>http://yourdomain.com</link>
+	<category>service</category>
+	<date>2014-05-17</date>
+	<license link="http://licenseurl.com">FREE</license>
+	<author email_address="author1@yourdomain.com" link="http://author1.com">
+		<name xml:lang="ko">Author1</name>
+	</author>
+</module>

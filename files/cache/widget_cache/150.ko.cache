@@ -1,0 +1,8 @@
+<!--#Meta:widgets/login_info/skins/default/default.login.css--><!--#Meta:widgets/login_info/skins/default/default.login.js--><div class="account">
+	<ul class="info">
+		<li><a href="/index.php?mid=WidgetPageTest&amp;act=dispMemberInfo" title="최근 로그인: 2020-11-23" class="user">admin1</a></li>
+		<li>
+			<a href="/index.php?module=admin" title="" class="admin">관리</a>
+		</li>		<li><a href="/index.php?mid=WidgetPageTest&amp;act=dispMemberLogout" class="logout">로그아웃</a></li>
+	</ul>
+</div>

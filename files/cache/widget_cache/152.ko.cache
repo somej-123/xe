@@ -1,0 +1,35 @@
+<!--#Meta:widgets/content/skins/default/js/content_widget.js--><!--#Meta:widgets/content/skins/default/css/widget.css--><div class="widgetContainer">
+            <ul class="widgetTabA widgetTab">
+    <li class="active"><a href="/testBoard" onmouseover="content_widget_tab_show(jQuery(this),jQuery(this).parents('ul.widgetTabA').next('dl.widgetDivider'),0)">test board</a></li>
+</ul>
+<dl class="widgetDivider">
+    <dt>test board</dt>
+    <dd class="open">
+                                <div>
+        <table class="widgetTableA" border="1" cellspacing="0">
+            <tbody>
+                    <tr>
+                        <td class="title">
+                                    <a href="/testBoard"><strong class="board">test board</strong></a>
+                                                <a href="/testBoard/151">222</a>
+                                                                    <span class="icon"></span>
+                            </td>
+                                <td class="time"><span class="date">2020-11-05</span> <span class="hour">22:30</span></td>
+                                <td><a href="#" onclick="return false;" class="author member_4">admin1</a></td>
+                        </tr>
+                    <tr>
+                        <td class="title">
+                                    <a href="/testBoard"><strong class="board">test board</strong></a>
+                                                <a href="/testBoard/132">테스트1입니다.</a>
+                                    <em class="replyNum" title="Replies"><a href="/testBoard/132#comment">1</a></em>
+                                                                    <span class="icon"></span>
+                            </td>
+                                <td class="time"><span class="date">2020-11-05</span> <span class="hour">21:00</span></td>
+                                <td><a href="#" onclick="return false;" class="author member_4">admin1</a></td>
+                        </tr>
+                    </tbody>
+        </table>
+    </div>
+        </dd>
+</dl>
+    </div>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skin version="0.2">
+	<title xml:lang="ko">나의 게시판 기본 스킨</title>
+	<description xml:lang="ko">나의 게시판 기본 스킨입니다.</description>
+	<date>2014-05-17</date>
+	<link>http://yourdomain.com</link>
+	<license link="http://licence.com">FREE</licence>
+	<version>1.0</version>
+	<author email_address="author1@author1.com" link="http://author1.com">
+		<name xml:lang="ko">author1</name>
+	</author>
+	<extra_vars />
+</skin>

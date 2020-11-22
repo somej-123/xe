@@ -1,0 +1,23 @@
+myboard생성
+conf파일 생성
+info.xml
+module.xml생성
+myboard로 돌아와서
+[메뉴 타입으로 등록]
+myboard.class.php생성
+myboard.model.php생성
+[메뉴 타입으로 등록 가능]
+[권한 설정]
+conf/module.xml
+태그만 달려있던 애들 내용추가
+[권한 설정 완료]
+[모듈설정 만들기]
+module.xml
+permissions
+actions
+내용 추가
+myboard.admin.model.php파일생성
+tpl/simple_setup.html파일 생성
+lang/lang.xml파일 생성
+myboard.admin.controller.php파일 생성
+[모듈 설정 끝]
